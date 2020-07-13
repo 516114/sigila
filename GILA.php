@@ -5,10 +5,10 @@ echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
 echo "\e[96m_________________   WARNING !!!!!!!!  _________________ \n";
 echo "\e[96m                 INI SCRIB GOJEK INI GRATIS CUK                \n";
 echo "\e[96m                   SUNGKEM DULU SAMA SIGILA               \n";
-echo "\e[96m                                                                               \n";
-echo "\e[96m                                     516114                                                \n";
-echo "\e[96m                                NENEN DULU                    \n";
-echo "\e[96m       BIAR BISA MAKIN SEMANGAT BIKIN KONTENNYA         \n";
+echo "\e[96m                                                                            \n";
+echo "\e[96m                          516114                                                \n";
+echo "\e[96m                        NENEN DULU                    \n";
+echo "\e[96m                                                      \n";
 echo "\e[96m ********\e[95m".date('[d-m-Y] [H:i:s]')."\e[96m********\n";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
